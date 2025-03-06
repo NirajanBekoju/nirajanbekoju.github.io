@@ -25,19 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-As a Computer Engineer, I have an interest in linear
-algebra, multi-variable calculus, probability, and statistics.
-Currently, I am learning machine learning and deep learning and
-studying CNNs, sequential models like RNNs, GRUs, and LSTMs. My
-programming languages of interest are Python, C, C++, Octave and
-Julia. I would love to explore Reinforcement Learning.
+I completed my undergraduate studies in Computer Engineering at Pulchowk Campus, Tribhuvan University.
 
-I have been working on nepali language processing to develop
-              language model for sentimental classification, text auto -
-              generation and summarization.
+I am passionate about machine learning and have working experience in `Anomaly Detection and Diagnosis`, `Time Series Analysis and Forecasting`, `Recommendation System`, NLP, `RAG`, and Chatbot development. With experience in these fields, I am always eager to dive deeper into emerging trends and technologies, continuously enhancing my skills in areas such as `Data Science`, `Big Data Analytics`, and `NLP`.
 
-Other than technical aspects, I enjoy listening instumental
-              music(mostly classical), playing flute, cycling, walking,
-              meditation, and spending time without doing anything.I love
-              studying history, religion and philosophy. As of now, my favorite
-              anime are One piece and Attack on Titan.
+Other than technical aspects, I enjoy listening to instrumental music and spending time without doing anything. I love studying history, and philosophy. As of now, my favorite anime are One Piece and Attack on Titan.
