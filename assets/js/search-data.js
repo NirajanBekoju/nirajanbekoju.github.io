@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-mastering-logging-in-python",
+        },{id: "post-factory-design-pattern",
+      
+        title: 'Factory Design Pattern <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@nirajan.bekoju/factory-design-pattern-e9017649433e?source=rss-de4724eed33a------2", "_blank");
+        
+      },
+    },{id: "post-mastering-logging-in-python",
       
         title: 'Mastering Logging in Python <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
