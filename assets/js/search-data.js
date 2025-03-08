@@ -30,7 +30,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-factory-design-pattern",
+        },{id: "post-sequential-recommender-system-challenges-progress-and-prospects",
+      
+        title: 'Sequential Recommender System: Challenges, Progress and Prospects <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@nirajan.bekoju/sequential-recommender-system-challenges-progress-and-prospects-1a6c22551ea4?source=rss-de4724eed33a------2", "_blank");
+        
+      },
+    },{id: "post-singleton-design-pattern",
+      
+        title: 'Singleton Design Pattern <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@nirajan.bekoju/singleton-design-pattern-27e26f065077?source=rss-de4724eed33a------2", "_blank");
+        
+      },
+    },{id: "post-learning-to-rank-from-pairwise-approach-to-listwise-approach",
+      
+        title: 'Learning to Rank: From Pairwise Approach to Listwise Approach <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.open("https://medium.com/@nirajan.bekoju/learning-to-rank-from-pairwise-approach-to-listwise-approach-eaa57769a74a?source=rss-de4724eed33a------2", "_blank");
+        
+      },
+    },{id: "post-factory-design-pattern",
       
         title: 'Factory Design Pattern <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
